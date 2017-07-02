@@ -1,6 +1,11 @@
 Mobile Money Transactor
 ============
 
+[![Build Status](https://travis-ci.org/Elbertbiggs360/mobile-money-transactor.svg?branch=master)](https://travis-ci.org/Elbertbiggs360/mobile-money-transactor)
+[![Coverage Status](https://coveralls.io/repos/github/Elbertbiggs360/mobile-money-transactor/badge.svg?branch=master)](https://coveralls.io/github/Elbertbiggs360/mobile-money-transactor?branch=master)
+[![Code Health](https://landscape.io/github/Elbertbiggs360/mobile-money-transactor/master/landscape.svg?style=flat)](https://landscape.io/github/Elbertbiggs360/mobile-money-transactor/master)
+[![Code Climate](https://codeclimate.com/github/Elbertbiggs360/mobile-money-transactor/badges/gpa.svg)](https://codeclimate.com/github/Elbertbiggs360/mobile-money-transactor)
+[![Issue Count](https://codeclimate.com/github/Elbertbiggs360/mobile-money-transactor/badges/issue_count.svg)](https://codeclimate.com/github/Elbertbiggs360/mobile-money-transactor)
 
 
 This is a python application using SQLAlchemy and Flask 
@@ -9,6 +14,7 @@ for agents of mobile money services
 
 ## Demo
 You can request a demo at https://serveway.co.ug/contact/
+
 You can also test the API demo hosted at https://mmtool.herokuapp.com in Postman
 Use a request to the url with extension 
 - GET `/branches` to get a list of the available mm branches
@@ -38,5 +44,5 @@ After you clone this repo to your desktop and the dependencies are installed, yo
 ## License
 >You can check out the full license [here](https://github.com/elbertbiggs360/mobile-money-transactor/blob/master/LICENSE)
 
-![MIT License](https://github.com/elbertbiggs360/mobile-money-transactor/blob/master/license.png)
+![MIT License](https://github.com/elbertbiggs360/mobile-money-transactor/blob/master/mit.png)
 This project is licensed under the terms of the **MIT** license.
